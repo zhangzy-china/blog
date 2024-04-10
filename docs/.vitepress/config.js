@@ -10,7 +10,7 @@ export default defineConfig({
       logo: './favicon.ico',
       // https://vitepress.dev/reference/default-theme-config
       nav: [
-        { text: '首页', link: '/index' },
+        { text: '首页', link: '/' },
         {
           text: '设备中心',
           items: [
