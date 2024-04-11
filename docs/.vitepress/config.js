@@ -2,7 +2,7 @@ import { defineConfig } from "rollup"
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-    base: '/chint/',
+    base: './',
     title: "chintpower",
     lang: 'zh-CN', 
     head: [['link', { rel: 'icon', href: './favicon.ico' }]],
